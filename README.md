@@ -59,7 +59,7 @@ The following input fields are validated:
 
 ## 🌟 Screenshots
 
-![Image-Transform-Effect_Screenshot](/images/ITE_Screenshot.png)
+![Image-Transform-Effect_Screenshot](/images_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -76,18 +76,6 @@ The following input fields are validated:
    cd Form-Validation-Web
    ```
 3. Open index.html in any web browser
-
-## 🛠️ How it Works
-
-- Hover over an image to see the transformation effect.
-- Optionally, click on an image to apply additional effects.
-- Modify the CSS and JavaScript to customize the transform behavior as needed.
-
-## 🛠️ Customization
-
-- Easily change the type of transform (scale, rotate, skew, etc.) in the CSS.
-- Adjust the speed, duration, and easing of transitions.
-- Add more images or different effects through simple HTML and CSS updates.
 
 ## 🤝 Contributing
 
