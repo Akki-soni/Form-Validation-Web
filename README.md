@@ -23,10 +23,12 @@
 
 ## 🚀 Features
 
-- **Image scaling, rotation, and translation effects.**
-- **Smooth transitions and animations on hover or click.**
-- **Fully responsive design.**
-- **Easy to customize with different transform styles.**
+- **Real-time validation as the user types.**
+- **Validation for different types of input fields such as text, email, password, and phone number.**
+- **Error messages for invalid inputs.**
+- **Custom styles for error states using CSS.**
+- **Ensures password strength and matching confirmation password fields.**
+- **Prevents form submission until all inputs are valid.**
 
 ## 🛠️ Technologies Used
 
