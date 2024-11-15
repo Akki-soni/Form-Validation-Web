@@ -36,6 +36,27 @@
 - **CSS**: Styling the form and validation feedback.
 - **JavaScript**: Handling the validation logic and user input.
 
+## 🛠️ Validation Criteria
+
+The following input fields are validated:
+
+ **Username**: 
+   - Must be between 3-15 characters.
+   - Can only contain letters and numbers.
+   
+ **Email**: 
+   - Must be a valid email format (e.g., name@example.com).
+   
+ **Password**: 
+   - Minimum 8 characters.
+   - Should include a combination of letters and numbers.
+   
+ **Confirm Password**: 
+   - Must match the password field.
+
+ **Phone Number** (optional):
+   - Valid phone number format (numbers only, 10 digits).
+
 ## 🌟 Screenshots
 
 ![Image-Transform-Effect_Screenshot](/images/ITE_Screenshot.png)
