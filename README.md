@@ -73,7 +73,7 @@ The following input fields are validated:
    ```
 2. Open the project folder:
    ```bash
-   cd Image-Transform-Effect
+   cd Form-Validation-Web
    ```
 3. Open index.html in any web browser
 
