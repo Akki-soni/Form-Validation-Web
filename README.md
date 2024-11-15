@@ -32,9 +32,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML**: For structuring the images and layout.
-- **CSS**: For applying transformation effects, animations, and styling.
-- **JavaScript**: For handling dynamic interactions, such as on-click or on-hover transformations.
+- **HTML**: Structure and layout of the form.
+- **CSS**: Styling the form and validation feedback.
+- **JavaScript**: Handling the validation logic and user input.
 
 ## 🌟 Screenshots
 
