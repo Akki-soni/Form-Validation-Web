@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A visually engaging Image Transform Effect created using HTML, CSS, and JavaScript. This project demonstrates how to apply various transformations and animations to images, enhancing the user experience with hover or click interactions.
+  This project demonstrates a **Form Validation** application built using **HTML**, **CSS**, and **JavaScript**. The purpose of this project is to validate user input in a form before submission, ensuring data correctness and preventing incomplete or incorrect submissions.
 </p>
 
 ## 🚀 Features
