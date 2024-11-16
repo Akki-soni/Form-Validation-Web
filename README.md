@@ -59,7 +59,7 @@ The following input fields are validated:
 
 ## 🌟 Screenshots
 
-![Image-Transform-Effect_Screenshot](/images_Screenshot.png)
+![Form-Validation_Screenshot](/images_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -102,6 +102,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Thank You
 
-Thank you for exploring the Image-Transform-Effect! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
+Thank you for exploring the Form-Validation! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us.😊
 
 </div>
