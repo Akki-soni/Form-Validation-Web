@@ -63,7 +63,7 @@ The following input fields are validated:
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://form-validation-web.vercel.app/)
 
 ## How to Use
 
